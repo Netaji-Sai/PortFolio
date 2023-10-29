@@ -14,8 +14,9 @@ Learn more about me, my background, and my journey in the world of web developme
 ## Contact Information: 
 Connect with me! Whether you have a project idea, a collaboration proposal, or just want to say hello, you can easily reach out to me through the provided contact form or my social media links.
 
-# Technologies Used:
-HTML
-CSS
-# Check Out My Portfolio:
+## Technologies Used:
+-> HTML
+-> CSS
+
+## Check Out My Portfolio:
 [Link to Your Portfolio Project]
